@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anto-muli
 - 👀 I’m interested in creating inclusive financial solutions
-- 🌱 I’m currently C , C++ and Python
+- 🌱 I’m currently learning C , C++ and Python
 - 💞️ I’m looking to collaborate on Financial solutions
 - 📫 How to reach me on antonymusau50@gmail.com
 
